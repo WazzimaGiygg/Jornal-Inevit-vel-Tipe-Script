@@ -1,0 +1,6 @@
+{
+  "name": "Jornal WazzimaGiygg",
+  "description": "Portal independente de notícias, investigações e análises aprofundadas com suporte multi-idioma e integração Firebase.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
